@@ -1,7 +1,3 @@
-# 💫 About Me:
-Full Stack Developer exploring DevOps & Cloud ⚙️ | <br>Building scalable web apps & solving DSA in Java 💻 | <br>Always shipping new projects 🚀
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/smaraksatyaprakash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smaraksatyaprakashdas@gmail.com) 
 
